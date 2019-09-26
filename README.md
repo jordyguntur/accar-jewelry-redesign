@@ -9,6 +9,15 @@
 
 ![product](https://github.com/jordyguntur/accar-jewelry-redesign/blob/master/product_page_resized.png?raw=true)
 
+
+## Product Offer View
+
+![productoffer](https://github.com/jordyguntur/accar-jewelry-redesign/blob/master/product_offer_resized.png?raw=true)
+
+## Trade Product View
+
+![productoffer](https://github.com/jordyguntur/accar-jewelry-redesign/blob/master/trade_page_resized.png?raw=true)
+
 ## Color Referece
 
 ### Color Palette
